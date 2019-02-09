@@ -1,7 +1,4 @@
-# cmusku-bkandla-bhreddy-a4
-
-Please find the assigment report in the root folder (cmusku_bkandla_bhreddy_a4_report.pdf)
-This is a brief description of one of the algorithms.
+This is a brief description of the Adaboost algorithm.
 ## AdaBoost Implementation
 
 - To handle mutli class classification problem we implemented a slightly different approach
